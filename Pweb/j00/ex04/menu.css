@@ -1,0 +1,103 @@
+body
+{
+	background-image : url(http://images.frandroid.com/wp-content/uploads/2015/07/TGV.jpg);
+	background-size : 100% 100%;
+}
+
+#logo
+{
+
+	margin-top: 100px;
+	width : 500px;
+	height : 120px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 30px purple;
+}
+
+#sandwich
+{
+	margin-top: 30px;
+	border-radius: 15px;
+	box-shadow: 15px 15px 20px black;
+}
+
+.div1
+{
+	height : 1700px;
+	width : 900px;
+	background-color: rgba(155, 100, 156, 0.2);
+	border-radius: 50px;
+}
+
+.div2
+{
+	margin-top:100px;
+	margin-left: 660px;
+	height : 470px;
+	width : 250px;
+	border-radius: 10px;
+}
+
+.div3
+{
+	padding-top: 20px;
+	margin-left: -530px;
+	margin-top: -460px;
+	height : 470px;
+	width : 250px;
+}
+
+ul ul
+{
+	position: relative;
+  	left: 10em;
+	display: none;
+} 
+
+li:hover ul.menu1-2, li:hover ul.menu2-1, li:hover ul.menu3-1, li:hover ul.menu4-1, li:hover ul.menu5-1, li li:hover
+{
+	top : -54px;
+	display:block;
+}
+
+li li
+{
+	margin-top: 10px;
+
+
+}
+
+li 
+{
+	font-family: comic;
+	font-size : 20px;
+	padding-top: 20px;
+	height : 40px;
+	border : 1px solid black;
+	border-radius: 10px;
+	box-shadow: 6px 6px 10px #3e5f8a;
+	list-style-type: none;
+	background-color: rgba(82, 19, 163, 0.8);
+	width: 230px;
+	color : orange;
+}
+
+.retard
+{
+	font-size: 30px;
+	font-family: Comic;
+	color : #FF8000;
+	text-shadow: 5px 5px 5px black;
+	font-weight : bold;
+	width : 300px;
+	background-color: rgba(166, 87, 87, 0.8);
+	border-radius: 20px;
+	box-shadow: 9px 9px 10px #A65757;
+}
+
+hr
+{
+	border-width: 2px;
+	margin-top: 100px;
+	box-shadow: 9px 9px 10px black
+}
