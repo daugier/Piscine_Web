@@ -7,13 +7,15 @@
 		return ($end);
 	}
 	$finish = array();
+	$i = 0;
 	foreach($argv as $elem)
 	{
-		if ($elem != $argv[0])
+		if ($i > 0)
 		{
 			$tab = ft_split($elem);
 			$finish = array_merge($finish, $tab);
 		}
+		$i++;
 	}
 	sort($finish);
 	foreach($finish as $fi)
