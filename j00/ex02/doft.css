@@ -1,0 +1,174 @@
+body
+{
+	padding : 10px 0% 0% 12%;
+	height : 150px;
+	background-color : rgb(80,80,80);
+	font-style: vw;
+i}
+
+#r1
+{
+	position : absolute;
+	top : 10px;
+	right : 10px;
+}
+#r2
+{
+	position : absolute;
+	bottom : 10px;
+	right : 10px;
+}
+
+#r3
+{
+	position : absolute;
+	right : 30px;
+	bottom : -20px;
+}
+
+
+
+.d1
+{
+	height : 135px;
+	width : 1460px;
+	padding : 4px 10px 4px 10px;
+	position : relative;
+	background-color : rgb(144,144,144);
+	border-radius : 10px;
+	box-shadow : 10px 10px 15px black;
+}
+
+.d2
+{
+	width : 1600px;
+	position : relative;
+}
+
+.d3
+{
+	float : left;
+	margin-top: 3px;
+	margin-left: 29px;
+	padding : 5px 9px 0 0;
+	height : 442px;
+	width : 140px;
+	background-color : rgb(144,144,144);
+	border-radius : 10px;
+	box-shadow : 10px 10px 15px black;
+}
+
+.d4
+{
+	float: left;
+	margin-top: 3px;
+	margin-left: 30px;
+	padding : 10px 10px 10px 10px;
+	height : 590px;
+	width : 1050px;
+	background-color : rgb(144,144,144);
+	border-radius : 10px;
+	box-shadow : 10px 10px 15px black;
+}
+
+.d5
+{
+	margin-left: 30px;
+	margin-top: 3px;
+	float : left;
+	padding : 5px 0px 0px 0px;
+	height : 442px;
+	width : 145px;
+	background-color : rgb(144,144,144);
+	border-radius : 10px;
+	box-shadow : 10px 10px 15px black;
+}
+
+.d7
+{
+	padding : 10px 5px 60px 10px;
+	margin-top: 710px;
+	margin-left : -40px;
+	height : 115px;
+	width : 522px;
+	color: black;
+	position : absolute;
+	top : 0;
+	background-color: rgb(140,253,142);
+	border-radius : 10px;
+	box-shadow : 10px 10px 15px black;
+	font-family : arial;
+	font-size : 17px;
+}
+
+#mt0
+{
+	margin-top : 6px;
+	width : 445px;
+}
+
+#mt1
+{
+	margin-top : 9px;
+	width : 74px;
+}
+
+#mt2
+{
+	margin-top : 6px;
+	border : 5px solid red;
+	width : 75px;
+}
+
+#mt3
+{
+	background-image : url(ressources/brick.jpg);
+	background-repeat: repeat;
+	background-size: 34px;
+	width :128px;
+	height: 75px;
+	margin-top: 5px;
+	background-color: rgb(144,144,144);
+}
+
+#end
+{
+	border-radius : 0px;
+	box-shadow : 0px 0px 0px white;
+	height : 20px;
+}
+
+#button
+{
+	margin-left: 7px;
+	border : 0.5px solid #6E6E6E;
+	border-radius: 2px;
+	margin-bottom: 10px;
+    background-color: rgb(226,226,226);
+    font-size : 12px;
+    font-family : arial;
+    height : 20px;
+	width : 80px;
+}
+
+#t0
+{
+	font-size : 18px;
+}
+
+#t1
+{
+	font-size : 38px;
+	font-family : 'palatino linotype', 'book antiqua', Palatino, serif;
+}
+
+#t2
+{
+	text-shadow: 5px 5px 5px #FF3939;
+}
+
+#t3
+{
+	font-size: 18px;
+	font-family : arial;
+}
